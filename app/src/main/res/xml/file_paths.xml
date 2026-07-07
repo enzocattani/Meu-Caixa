@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path name="pdf_reports" path="pdf_reports/" />
+    <external-cache-path name="pdf_reports_external" path="pdf_reports/" />
+</paths>

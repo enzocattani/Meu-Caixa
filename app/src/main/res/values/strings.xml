@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu Caixa</string>
+
+    <string name="notif_canal_nome">Lembretes</string>
+    <string name="notif_canal_descricao">Lembretes para registrar as movimentações do caixa</string>
+
+    <string name="notif_lembrete_diario_titulo">Meu Caixa</string>
+    <string name="notif_lembrete_diario_texto">Não esqueça de lançar as movimentações de hoje.</string>
+
+    <string name="notif_quinto_dia_util_titulo">Meu Caixa</string>
+    <string name="notif_quinto_dia_util_texto">Hoje é o 5º dia útil do mês. Confira o fechamento do mês anterior.</string>
+</resources>
